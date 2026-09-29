@@ -1,0 +1,16 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# FastF1 telemetry cache folder
+data/cache/
+*.sqlite
+
+# Virtual environments (if any)
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
